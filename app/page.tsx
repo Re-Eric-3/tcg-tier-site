@@ -9,7 +9,7 @@ export default function Home() {
 
       <div className="grid md:grid-cols-3 gap-5">
         <TierCard
-          title="緑ゴン"
+          title="ゴン"
           tier="S Tier"
         />
 
